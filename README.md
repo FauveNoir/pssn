@@ -56,3 +56,8 @@ The following code is for a printer witch support network, printing on two sides
     +net+rv+f:A4±color-scan-fax
     ,±,+,-,-,+
     IOYNNY
+
+#Normalised tag
+So, a normalised tag could be add to printers box, for the previous PSSN example, the tag is like :
+
+![Example tag](./tagexample.png)
